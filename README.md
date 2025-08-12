@@ -1,17 +1,17 @@
 # C bootcamp
 
-Table of Content
+Table of Contents
 
 - Introduction
-- Control flow: conditions and comparison
-- Control flow: loops
+- Variables
+- Constants
+- Data Types
+- Operators
+- Comparison
+- Loops
 - Functions
-- Function operator
-- Arrays
+- Array
+- Struct
 - Pointers
-- String manipulation
-- Files I/O
-- Exception
-- Dynamic memory
-- Template
-- Header files
+- File IO
+- Header files/ Libraries (malloc, free, strlen, etc...)
