@@ -1,6 +1,6 @@
 # C bootcamp
 
-Table of Contents
+## Table of Contents
 
 - Introduction
 - Variables
