@@ -7,7 +7,8 @@ The repository will be regularly updated with new content throughout the course 
 
 ## Table of Contents
 
-- Introduction[]
+
+- [Introduction](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/01.introduction.md)
 - Variables
 - Constants
 - Data Types
