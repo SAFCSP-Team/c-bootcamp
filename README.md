@@ -9,7 +9,7 @@ The repository will be regularly updated with new content throughout the course 
 
 
 - [Introduction](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/01.introduction.md)
-- Variables
+- [Variables](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/02.variables.md)
 - Constants
 - Data Types
 - Operators
