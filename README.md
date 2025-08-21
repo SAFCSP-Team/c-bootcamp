@@ -1,6 +1,6 @@
 # C bootcamp
 
-This repository serves as a Reference for the `C` programming language.
+This repository serves as a reference for the `C` programming language.
     
 The repository will be regularly updated with new content throughout the course duration.
 
