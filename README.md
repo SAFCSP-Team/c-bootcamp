@@ -2,8 +2,9 @@
 
 This repository serves as a resource for the `C` programming language. Providing various tools, libraries, and documentation to support learning and development in `C`.
     
-This repository will be updated frequently during the time of the course.    
- 
+The repository will be regularly updated with new content throughout the course duration.
+
+
 ## Table of Contents
 
 - Introduction
