@@ -1,6 +1,6 @@
 # C bootcamp
 
-This repository serves as a resource for the `C` programming language. Providing various tools, libraries, and documentation to support learning and development in `C`.
+This repository serves as a resource for the `C` programming language.
     
 The repository will be regularly updated with new content throughout the course duration.
 
