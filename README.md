@@ -8,9 +8,9 @@ The repository will be regularly updated with new content throughout the course 
 ## Table of Contents
 
 
-- [Introduction](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/01.introduction.md)
-- [Variables](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/02.variables.md)
-- [Constants](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/03.constants.md)
+- [Introduction](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/01.introduction.md)
+- [Variables](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/02.variables.md)
+- [Constants](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/03.constants.md)
 - Data Types
 - Operators
 - Comparison
