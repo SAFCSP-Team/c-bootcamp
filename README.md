@@ -11,7 +11,7 @@ The repository will be regularly updated with new content throughout the course 
 - [Introduction](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/01.introduction.md)
 - [Variables](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/02.variables.md)
 - [Constants](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/03.constants.md)
-- Data Types
+- [Data Types](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/04.data-types.md)
 - Operators
 - Comparison
 - Loops
