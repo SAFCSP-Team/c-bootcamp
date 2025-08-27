@@ -17,7 +17,6 @@ The repository will be regularly updated with new content throughout the course 
 - Loops
 - Functions
 - Array
-- String
 - Struct
 - Pointers
 - File IO
