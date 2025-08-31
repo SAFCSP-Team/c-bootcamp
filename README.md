@@ -12,7 +12,7 @@ The repository will be regularly updated with new content throughout the course 
 - [Variables](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/02.variables.md)
 - [Constants](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/03.constants.md)
 - [Data Types](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/04.data-types.md)
-- Operators
+- [Operators](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/05.Operators.md)
 - Comparison
 - Loops
 - Functions
