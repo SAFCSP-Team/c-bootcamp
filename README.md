@@ -14,7 +14,7 @@ The repository will be regularly updated with new content throughout the course 
 - [Data Types](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/04.data-types.md)
 - [Operators](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/05.Operators.md)
 - Comparison
-- Loops
+- [Loops](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/07.loops.md)
 - Functions
 - Array
 - Struct
