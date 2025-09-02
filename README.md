@@ -15,9 +15,9 @@ The repository will be regularly updated with new content throughout the course 
 - [Operators](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/05.Operators.md)
 - Comparison
 - [Loops](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/07.loop.md)
-- Functions
+- Pointer
 - Array
 - Struct
-- Pointers
+- Functions
 - File IO
 - Header files/ Libraries (malloc, free, strlen, etc...)
