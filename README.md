@@ -13,7 +13,7 @@ The repository will be regularly updated with new content throughout the course 
 - [Constants](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/03.constants.md)
 - [Data Types](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/04.data-types.md)
 - [Operators](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/05.Operators.md)
-- Conditional Statements
+- [Conditional Statements](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/06.conditional-statements.md)
 - [Loops](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/07.loop.md)
 - Pointer
 - Array
