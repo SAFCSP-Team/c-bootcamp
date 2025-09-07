@@ -18,6 +18,6 @@ The repository will be regularly updated with new content throughout the course 
 - Pointer
 - [Array](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/09.array.md)
 - Struct
-- [Function](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/07.loop.md)
+- [Function](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/11.function.md)
 - File IO
 - Header files/ Libraries (malloc, free, strlen, etc...)
