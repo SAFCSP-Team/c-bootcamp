@@ -16,7 +16,7 @@ The repository will be regularly updated with new content throughout the course 
 - [Conditional Statements](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/06.conditional-statements.md)
 - [Loops](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/07.loop.md)
 - Pointer
-- Array
+- [Array](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/09.array.md)
 - Struct
 - [Function](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/07.loop.md)
 - File IO
