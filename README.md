@@ -15,7 +15,7 @@ The repository will be regularly updated with new content throughout the course 
 - [Operators](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/05.Operators.md)
 - [Conditional Statements](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/06.conditional-statements.md)
 - [Loops](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/07.loop.md)
-- Pointer
+- [Pointer](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/08.pointer.md)
 - [Array](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/09.array.md)
 - [Struct](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/10-struct.md)
 - [Function](https://github.com/SAFCSP-Team/c-bootcamp/blob/main/bootcamp/11.function.md)
